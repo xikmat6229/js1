@@ -1,4 +1,4 @@
-let a=prompt('Qaysi shahardansi?')
+let a=prompt('Qaysi shahardansiz?')
 let b=prompt('Ismingiz nima?')
 let d=prompt('Yoshingiz nechida?')
 let c=prompt('Telefon raqamingiz?')
